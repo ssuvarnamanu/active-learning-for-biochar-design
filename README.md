@@ -45,18 +45,18 @@ Alternately users can create a dedicated `conda` environment and install the req
 * conda activate active-learning
 
 
-- # Data preparation
+## Data preparation
 
 We provide the clean and labelled curated data as Excel sheets titled "Data for model" which includes all the experimental data used for model training. The file itself contains 4 tabs, with each tab corresponding to the experimental data from each of the active learning cycles.
 
-- # Model training
+## Model training
 
 The workflow uses standard training process for implementing the Random forest and we provide detailed instructions for the same. The hyperparameters of the the algorithm are optimized usingthe gridsearch methodology. Implementing the Particel Swarm Optimizer (PSO) needs MORE ATTENTIONn. Though we provide instructions to run the PSO specific to our datasets and basic tuning of its parameters The expected outcome after the end of the PSO campaign and its implication to this research project is explained in the notebooks.
 
-- # Referencing
+## Referencing
 
 The active learning model devised in this study employs RF regressor and PSO optimizer to recommend experimental conditions aimed at designing property specific biochar.If you find this work relevant, please cite our published paper:
 
-# Active learning based guided synthesis of engineered biochar for CO2 capture
+## Active learning based guided synthesis of engineered biochar for CO2 capture
 X. Yuan, M. Suvarna, J.Y. Lim, J. Pérez-Ramírez, X. Wang, Y.S. Ok
 Environ. Sci. Technol. 2024, 15, 6628–6636. (https://pubs.acs.org/doi/10.1021/acs.est.3c10922)
