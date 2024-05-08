@@ -57,6 +57,6 @@ The workflow uses standard training process for implementing the Random forest a
 
 The active learning model devised in this study employs RF regressor and PSO optimizer to recommend experimental conditions aimed at designing property specific biochar.If you find this work relevant, please cite our published paper:
 
-## Active learning based guided synthesis of engineered biochar for CO2 capture
+### Active learning based guided synthesis of engineered biochar for CO2 capture
 X. Yuan, M. Suvarna, J.Y. Lim, J. Pérez-Ramírez, X. Wang, Y.S. Ok
 Environ. Sci. Technol. 2024, 15, 6628–6636. (https://pubs.acs.org/doi/10.1021/acs.est.3c10922)
