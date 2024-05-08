@@ -36,7 +36,7 @@ A Python version of 3.6 or above is recommended. Most of the code is developed u
 * Tensorflow 2.12.1
 * Shap 0.40.0
 
-- # Installation guide
+## Installation guide
 
 The codes can also be run on an exisiting environment provided the above listed packages are systemically installed using pip or conda commands.
 Alternately users can create a dedicated `conda` environment and install the required the packages. The conda environment can be created by, for example:
